@@ -32,8 +32,9 @@ with open(sys.srgv[1],'r')as f1:
     print("word count in file = ",count)
 ```
 ### OUTPUT:
+<img width="745" height="58" alt="image" src="https://github.com/user-attachments/assets/41e51e08-475e-4185-b396-220aed9d6e52" />
 
-![alt text](cmd.png)
+
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
